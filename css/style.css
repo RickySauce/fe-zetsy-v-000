@@ -75,7 +75,7 @@ a {
     background: transparent;
 }
 
-a:-webkit-any-link {
+a: {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
