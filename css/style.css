@@ -77,7 +77,7 @@ p {
     text-decoration: none;
 }
 
-a.LearnMore:hover {
+.LearnMore:hover {
   cursor: pointer;
   text-decoration: underline;
 }
