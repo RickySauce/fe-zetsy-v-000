@@ -77,7 +77,6 @@ a {
 
 a:-webkit-any-link {
     cursor: pointer;
-    text-decoration: underline;
 }
 
 /* Write all remaining styles here */
