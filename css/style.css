@@ -80,6 +80,10 @@ p {
     padding: 1px;
 }
 
+img {
+    border: 0;
+}
+
 footer {
     text-align: right;
     background: #fff;
