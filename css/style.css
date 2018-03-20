@@ -66,4 +66,18 @@ p {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
+
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
+a {
+    background: transparent;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+
 /* Write all remaining styles here */
