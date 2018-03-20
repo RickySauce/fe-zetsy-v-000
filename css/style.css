@@ -81,8 +81,7 @@ p {
 }
 
 footer {
-    height: 15px;
-    width: 960px;
+    padding: 15px;
     text-align: right;
     background: #fff;
 }
