@@ -75,7 +75,7 @@ a {
     background: transparent;
 }
 
-a {
+a href {
     cursor: pointer;
     text-decoration: underline;
 }
