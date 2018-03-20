@@ -71,14 +71,12 @@ p {
     color: #1783bb;
     text-decoration: none;
 }
-a {
-    background: transparent;
-}
 
-a href {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
+#press img:hover {
+    border: 5px rgb(111,127,122) solid;
 }
-
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
 /* Write all remaining styles here */
