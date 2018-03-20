@@ -75,7 +75,8 @@ a {
     background: transparent;
 }
 
-a href {
+a {
+    color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
 }
