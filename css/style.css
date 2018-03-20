@@ -84,4 +84,12 @@ a:-webkit-any-link {
         margin-bottom: 20px;
     }
 
+    article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+        display: block;
+    }
+    user agent stylesheet
+    article, aside, footer, header, hgroup, main, nav, section {
+        display: block;
+    }
+
 /* Write all remaining styles here */
